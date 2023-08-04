@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "582661770280",
+    "project_id": "e-shop-4eeb1",
+    "storage_bucket": "e-shop-4eeb1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:582661770280:android:2551d569a24f110a55b91d",
+        "android_client_info": {
+          "package_name": "com.ashutosh.flutter.e_shop_pingolearn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "582661770280-ap0n8jie5j4tq2s4or0q2n1iich0n0b3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMyF1eyeagXaxU-BWLK-20L3nKEHhiz2U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "582661770280-ap0n8jie5j4tq2s4or0q2n1iich0n0b3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
